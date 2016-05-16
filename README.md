@@ -22,6 +22,9 @@ Instructions:
 This app uses :
 
 -AFNetworking
+
 -Google-Mobile-Ads-SDK
+
 -GoogleMaps
+
 -SBJson
